@@ -1,5 +1,7 @@
 # Battleship
 
+> **Moved** to [visnup/games](https://github.com/visnup/games/tree/main/apps/battleship), where it continues. This repository is archived.
+
 Battleship is the guessing game Milton Bradley turned into plastic pegs. Each player hides five
 ships on a 10×10 grid, then you take turns calling out cells ("B7!") until one fleet is gone. It
 looks like pure luck, but it isn't quite: some cells are likelier to hold a ship, some ways of
